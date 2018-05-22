@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: dev
+  resources:
+    static-locations: classpath:/frontend/,classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/ # Locations of static resources.
