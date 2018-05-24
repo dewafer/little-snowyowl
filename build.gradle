@@ -51,6 +51,7 @@ task bundleFrontend(type: NpmTask) {
 }
 
 clean << {
+	file('node_modules').deleteDir()
 	file('src/main/frontend/node_modules').deleteDir()
 	file('src/main/resources/frontend').deleteDir()
 }
