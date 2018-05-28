@@ -10,7 +10,7 @@ public class ForwardController {
      * Matching everything that does not have a suffix and forward to "/",
      * this is for html5mode of ng.
      */
-    @RequestMapping("/**/{[path:[^\\.]*}")
+    @RequestMapping("/**/{path:[^\\.]*}")
     public String forward() {
         return "forward:/";
     }

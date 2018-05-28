@@ -48,7 +48,7 @@
     * Password  : (none)
 
 4.  本项目的前端 Demo 为 Angular 官方 [Tutorial: Tour of Heroes](https://angular.io/tutorial)，
-    代码是我手动打的不是复制黏贴的（为了学习ng），如果有错请见谅。
+    代码是我手动敲的不是复制黏贴的（为了学习ng），如果有错请见谅。
     
     官方 Tutorial 中的 [Simulate a data server](https://angular.io/tutorial/toh-pt6#simulate-a-data-server) 部分使用
     Spring boot 替代，其他原封不动。
