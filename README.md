@@ -1,6 +1,8 @@
 小雪鸮项目 Project Little Snowy Owl
 ----------------------------------
 
+[![Build Status](https://travis-ci.org/dewafer/little-snowyowl.svg?branch=master)](https://travis-ci.org/dewafer/little-snowyowl)
+
 ![Snowy Owl](./snowyowl.jpeg)
 
 
